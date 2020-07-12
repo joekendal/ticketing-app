@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: auth
-          image: joekendal/auth
+          image: eu.gcr.io/ticketing-dev-283015/auth
 
 ---
 apiVersion: v1
